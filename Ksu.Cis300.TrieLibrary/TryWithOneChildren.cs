@@ -1,4 +1,8 @@
-﻿using System;
+﻿/* TrieTests.cs
+ * Author: Long Li
+ */
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;

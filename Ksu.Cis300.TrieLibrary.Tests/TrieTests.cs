@@ -1,5 +1,5 @@
 ﻿/* TrieTests.cs
- * Author: Rod Howell
+ * Author: Long Li
  */
 using NUnit.Framework;
 using System;
